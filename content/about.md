@@ -1,10 +1,10 @@
 ---
 title: "About"
-description: "Hugo, the world’s fastest framework for building websites"
-date: "2019-02-28"
+description: ""
+date: "2021-04-13"
 aliases:
-  - "about-us"
-  - "about-hugo"
+  - "about-me"
+  - "about-education"
   - "contact"
 author: "Hugo Authors"
 menu:
@@ -21,23 +21,26 @@ menu:
     weight: 10
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+This is Mahmudul Mohtasim. I am currently studying MS in Computer Science in Brac University.
+I have graduated in Electrical and Electronics Engineering(EEE) form Bangladesh University of Engineering and Technology(BUET).
 
-Hugo makes use of a variety of open source projects including:
+My primary interest is in Machine learning, Deep Learning, Data Science, Distributed system and Embedded system. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Currently I am Working on Bengali OCR.
+I am also working on bulding a Bengali langulage model. For this, I am studying NLP right now.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Python is my go-to language.
+I know C and Kotlin(I don't know C++).
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I am learning Rust right now. I am thinking about learning Go but I don't know.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I don't use Facebook.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+These are online presence.
+
+* https://github.com/mmohtasim/
+* https://news.ycombinator.com/user?id=mmohtasim
+
 
 
 

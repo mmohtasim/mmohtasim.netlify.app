@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Anubis"
+title = "Home"
 theme = "anubis"
 paginate = 3
 
@@ -8,11 +8,11 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-  name = "Dmitry Kolosov"
+  name = "Mahmudul Mohtasim"
 
 [params]
-   author = "Dmitry Kolosov"
-   description = "Anubis is a simple minimalist theme for Hugo blog engine."
+   author = "Mahmudul Mohtasim"
+   description = ""
    dateFormat = "2006-01-02"
    paginationSinglePost = true
    style = "light-without-switcher"
